@@ -2222,6 +2222,31 @@ export class RandomTeams {
 		return pokemon;
 	}
 
+	randomAmericanSets: any[] = require('./american-sets.json');
+
+	randomAmericanTeam() {
+		const sets = this.multipleSamplesNoReplace(this.randomAmericanSets, 6);
+
+		return sets.map((setData: AnyObject) => {
+			const species = this.dex.species.get(setData.species);
+
+			return {
+				name: setData.nickanme || species.baseSpecies,
+				species: species.name,
+				gender: setData.gender || species.gender,
+				item: this.sampleIfArray(setData.item) || '',
+				ability: this.sampleIfArray(setData.ability),
+				shiny: setData.shiny || this.randomChance(1, 1024),
+				evs: {hp: 0, atk: 0, def: 0, spa: 0, spd: 0, spe: 0, ...setData.evs},
+				nature: setData.nature,
+				ivs: {hp: 31, atk: 31, def: 31, spa: 31, spd: 31, spe: 31, ...setData.ivs || {}},
+				moves: setData.moves.map((move: any) => this.sampleIfArray(move)),
+				happiness: setData.happiness || 255,
+				level: setData.level || 100,
+			};
+		});
+	}
+
 	randomCAP1v1Sets: AnyObject = require('./cap-1v1-sets.json');
 
 	randomCAP1v1Team() {

@@ -1,0 +1,1043 @@
+[
+	{
+		"species": "Cacturne",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": false,
+		"level": 100,
+		"happiness": 0,
+		"item": [
+			"Leftovers"
+		],
+		"ability": [
+			"Water Absorb"
+		],
+		"evs": {
+			"hp": 252,
+			"atk": 0,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Serious",
+		"ivs": {
+			"hp": 31,
+			"atk": 0,
+			"def": 31,
+			"spa": 0,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Snore"
+			],
+			[
+				"Rototiller"
+			],
+			[
+				"Leech Seed"
+			],
+			[
+				"Rest"
+			]
+		]
+	},
+	{
+		"species": "Golem-Alola",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": false,
+		"level": 100,
+		"happiness": 0,
+		"item": [
+			"Choice Scarf"
+		],
+		"ability": [
+			"Galvanize"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Serious",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 0,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Explosion"
+			],
+			[
+				"Self-Destruct"
+			],
+			[
+				"Double-Edge"
+			],
+			[
+				"Giga Impact"
+			]
+		]
+	},
+	{
+		"species": "Braviary",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": false,
+		"level": 74,
+		"happiness": 255,
+		"item": [
+			"Leftovers"
+		],
+		"ability": [
+			"Defiant"
+		],
+		"evs": {
+			"hp": 252,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 4,
+			"spe": 0
+		},
+		"nature": "Brave",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Swagger"
+			],
+			[
+				"Superpower"
+			],
+			[
+				"Retaliate"
+			],
+			[
+				"Brave Bird"
+			]
+		]
+	},
+	{
+		"species": "Snorlax",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": false,
+		"level": 81,
+		"happiness": 0,
+		"item": [
+			"Figy Berry"
+		],
+		"ability": [
+			"Gluttony"
+		],
+		"evs": {
+			"hp": 252,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 4
+		},
+		"nature": "Adamant",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 0,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Pay Day"
+			],
+			[
+				"Gunk Shot"
+			],
+			[
+				"Outrage"
+			],
+			[
+				"Recycle"
+			]
+		]
+	},
+	{
+		"species": "Probopass",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": false,
+		"level": 2,
+		"happiness": 0,
+		"item": [
+			"Berry Juice"
+		],
+		"ability": [
+			"Sturdy"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 0,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 0
+		},
+		"nature": "Serious",
+		"ivs": {
+			"hp": 0,
+			"atk": 0,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 0
+		},
+		"moves": [
+			[
+				"Pain Split"
+			],
+			[
+				"Toxic"
+			],
+			[
+				"Endure"
+			],
+			[
+				"Protect"
+			]
+		]
+	},
+	{
+		"species": "Braviary",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": true,
+		"level": 74,
+		"happiness": 0,
+		"item": [
+			"Lax Incense"
+		],
+		"ability": [
+			"Keen Eye"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 0,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Giga Impact"
+			],
+			[
+				"Brave Bird"
+			],
+			[
+				"Steel Wing"
+			],
+			[
+				"Swagger"
+			]
+		]
+	},
+	{
+		"nickname": "Obamacare",
+		"species": "Blissey",
+		"gigantamax": true,
+		"gender": "F",
+		"shiny": false,
+		"level": 74,
+		"happiness": 255,
+		"item": [
+			"Throat Spray"
+		],
+		"ability": [
+			"Healer"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 0,
+			"def": 0,
+			"spa": 252,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Timid",
+		"ivs": {
+			"hp": 31,
+			"atk": 0,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Hyper Beam"
+			],
+			[
+				"Heal Pulse"
+			],
+			[
+				"Healing Wish"
+			],
+			[
+				"Heal Bell"
+			]
+		]
+	},
+	{
+		"nickname": "FAT MAN",
+		"species": "Lickilicky",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": false,
+		"level": 100,
+		"happiness": 0,
+		"item": [
+			"Toxic Orb"
+		],
+		"ability": [
+			"Own Tempo"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Explosion"
+			]
+		]
+	},
+	{
+		"nickname": "Little Boy",
+		"species": "Roggenrola",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": true,
+		"level": 100,
+		"happiness": 255,
+		"item": [
+			"Choice Band"
+		],
+		"ability": [
+			"Sturdy"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 252,
+			"def": 4,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Adamant",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Explosion"
+			]
+		]
+	},
+	{
+		"species": "Appletun",
+		"gigantamax": true,
+		"gender": "F",
+		"shiny": true,
+		"level": 100,
+		"happiness": 255,
+		"item": [
+			"Sitrus Berry"
+		],
+		"ability": [
+			"Ripen"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Seed Bomb"
+			],
+			[
+				"Body Press"
+			],
+			[
+				"Curse"
+			],
+			[
+				"Recycle"
+			]
+		]
+	},
+	{
+		"nickname": "Florida Man",
+		"species": "Feraligatr",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": true,
+		"level": 84,
+		"happiness": 255,
+		"item": [
+			"Life Orb"
+		],
+		"ability": [
+			"Sheer Force"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Dragon Dance"
+			],
+			[
+				"Liquidation"
+			],
+			[
+				"Superpower"
+			],
+			[
+				"Crunch"
+			]
+		]
+	},
+	{
+		"species": "Zapdos-Galar",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": true,
+		"level": 69,
+		"happiness": 151,
+		"item": [
+			"Weakness Policy",
+			"Life Orb",
+			"Sharp Beak",
+			"Sitrus Berry"
+		],
+		"ability": [
+			"Defiant"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 4,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 0,
+			"atk": 0,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 0
+		},
+		"moves": [
+			[
+				"Thunderous Kick",
+				"Close Combat"
+			],
+			[
+				"Brave Bird",
+				"Dual Wingbeat"
+			],
+			[
+				"Steel Wing",
+				"Blaze Kick"
+			],
+			[
+				"Bulk Up"
+			]
+		]
+	},
+	{
+		"species": "Sceptile",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": true,
+		"level": 84,
+		"happiness": 255,
+		"item": [
+			"Sceptilite"
+		],
+		"ability": [
+			"Overgrow"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Leaf Blade"
+			],
+			[
+				"Earthquake"
+			],
+			[
+				"Hidden Power [Rock]"
+			],
+			[
+				"Drain Punch"
+			]
+		]
+	},
+	{
+		"nickname": "aw yea fried chikn",
+		"species": "Moltres",
+		"gigantamax": true,
+		"gender": "",
+		"shiny": false,
+		"level": 80,
+		"happiness": 255,
+		"item": [
+			"Binding Band"
+		],
+		"ability": [
+			"Pressure"
+		],
+		"evs": {
+			"hp": 248,
+			"atk": 0,
+			"def": 0,
+			"spa": 0,
+			"spd": 252,
+			"spe": 0
+		},
+		"nature": "Calm",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Fire Spin"
+			],
+			[
+				"Substitute"
+			],
+			[
+				"Roost"
+			],
+			[
+				"Will-O-Wisp"
+			]
+		]
+	},
+	{
+		"nickname": "wrong holiday lmaoooo",
+		"species": "Xurkitree",
+		"gigantamax": true,
+		"gender": "",
+		"shiny": false,
+		"level": 80,
+		"happiness": 255,
+		"item": [
+			"Starf Berry"
+		],
+		"ability": [
+			"Beast Boost"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 0,
+			"def": 0,
+			"spa": 252,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Timid",
+		"ivs": {
+			"hp": 31,
+			"atk": 4,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Dazzling Gleam"
+			],
+			[
+				"Tail Glow"
+			],
+			[
+				"Magnet Rise"
+			],
+			[
+				"Ingrain"
+			]
+		]
+	},
+	{
+		"nickname": "F22-Raptor",
+		"species": "Staraptor",
+		"gigantamax": true,
+		"gender": "F",
+		"shiny": false,
+		"level": 84,
+		"happiness": 255,
+		"item": [
+			"Power Herb"
+		],
+		"ability": [
+			"Intimidate"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 252,
+			"def": 4,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Sky Attack"
+			],
+			[
+				"Pursuit"
+			],
+			[
+				"U-Turn"
+			],
+			[
+				"Steel Wing"
+			]
+		]
+	},
+	{
+		"nickname": "drinks cooler",
+		"species": "Rotom-Frost",
+		"gigantamax": true,
+		"gender": "",
+		"shiny": false,
+		"level": 90,
+		"happiness": 255,
+		"item": [
+			"Never-Melt Ice"
+		],
+		"ability": [
+			"Levitate"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 0,
+			"def": 0,
+			"spa": 252,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Timid",
+		"ivs": {
+			"hp": 31,
+			"atk": 0,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Blizzard"
+			],
+			[
+				"Volt Switch"
+			],
+			[
+				"Hidden Power [Water]"
+			],
+			[
+				"Swagger"
+			]
+		]
+	},
+	{
+		"nickname": "Rotom-Grill",
+		"species": "Rotom-Heat",
+		"gigantamax": true,
+		"gender": "",
+		"shiny": false,
+		"level": 90,
+		"happiness": 255,
+		"item": [
+			"Charcoal"
+		],
+		"ability": [
+			"Levitate"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 0,
+			"def": 0,
+			"spa": 252,
+			"spd": 4,
+			" spe": 252
+		},
+		"nature": "Timid",
+		"ivs": {
+			"hp": 31,
+			"atk": 0,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"OVerheat"
+			],
+			[
+				"Volt Switch"
+			],
+			[
+				"Will-O-Wisp"
+			],
+			[
+				"Sunny Day"
+			]
+		]
+	},
+	{
+		"nickname": "Cant melt steel beams",
+		"species": "Latios",
+		"gigantamax": true,
+		"gender": "",
+		"shiny": false,
+		"level": 80,
+		"happiness": 255,
+		"item": [
+			"Choice Band"
+		],
+		"ability": [
+			"Levitate"
+		],
+		"evs": {
+			"hp": 252,
+			"atk": 144,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 112
+		},
+		"nature": "Hardy",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Body Slam"
+			],
+			[
+				"Dragon Claw"
+			],
+			[
+				"Memento"
+			],
+			[
+				"Trick"
+			]
+		]
+	},
+	{
+		"nickname": "Legal Fireworks",
+		"species": "Blacephalon",
+		"gigantamax": true,
+		"gender": "",
+		"shiny": false,
+		"level": 90,
+		"happiness": 255,
+		"item": [
+			"Toxic Orb"
+		],
+		"ability": [
+			"Beast Boost"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 0,
+			"def": 0,
+			"spa": 252,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Modest",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Flame Charge"
+			],
+			[
+				"Facade"
+			],
+			[
+				"Explosion"
+			],
+			[
+				"Stored Power"
+			]
+		]
+	},
+	{
+		"nickname": "Illegal Fireworks",
+		"species": "Blacephalon",
+		"gigantamax": true,
+		"gender": "90",
+		"shiny": true,
+		"level": 90,
+		"happiness": 255,
+		"item": [
+			"Flying Gem"
+		],
+		"ability": [
+			"Beast Boost"
+		],
+		"evs": {
+			"hp": 0,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 4,
+			"spe": 252
+		},
+		"nature": "Jolly",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Flare Blitz"
+			],
+			[
+				"Acrobatics"
+			],
+			[
+				"Explosion"
+			],
+			[
+				"Celebrate"
+			]
+		]
+	},
+	{
+		"nickname": "Fireworks",
+		"species": "Blacephalon",
+		"gigantamax": true,
+		"gender": "90",
+		"shiny": false,
+		"level": 90,
+		"happiness": 255,
+		"item": [
+			"Air Balloon"
+		],
+		"ability": [
+			"Beast Boost"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 126,
+			"def": 0,
+			"spa": 126,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Flare Blitz",
+				"Flame Charge"
+			],
+			[
+				"Acrobatics",
+				"Facade"
+			],
+			[
+				"Explosion",
+				"Mind Blown"
+			],
+			[
+				"Celebrate",
+				"Stored Power"
+			]
+		]
+	},
+	{
+		"nickname": "PDJT",
+		"species": "Gumshoos",
+		"gigantamax": true,
+		"gender": "M",
+		"shiny": false,
+		"level": 100,
+		"happiness": 255,
+		"item": [
+			"Focus Sash"
+		],
+		"ability": [
+			"Strong Jaw"
+		],
+		"evs": {
+			"hp": 4,
+			"atk": 252,
+			"def": 0,
+			"spa": 0,
+			"spd": 0,
+			"spe": 252
+		},
+		"nature": "Serious",
+		"ivs": {
+			"hp": 31,
+			"atk": 31,
+			"def": 31,
+			"spa": 31,
+			"spd": 31,
+			"spe": 31
+		},
+		"moves": [
+			[
+				"Crunch"
+			],
+			[
+				"Ice Fang"
+			],
+			[
+				"Last Resort"
+			],
+			[
+				"Fire Fang"
+			]
+		]
+	}
+]
