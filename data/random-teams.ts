@@ -2233,7 +2233,7 @@ export class RandomTeams {
 			const species = this.dex.species.get(setData.species);
 
 			return {
-				name: setData.nickanme || species.baseSpecies,
+				name: setData.nickname || species.baseSpecies,
 				species: species.name,
 				gender: setData.gender || species.gender,
 				item: this.sampleIfArray(setData.item) || '',
