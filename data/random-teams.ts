@@ -2225,7 +2225,9 @@ export class RandomTeams {
 	randomAmericanSets: any[] = require('./american-sets.json');
 
 	randomAmericanTeam() {
-		const sets = this.multipleSamplesNoReplace(this.randomAmericanSets, 6);
+		const indexes = Object.keys(this.randomAmericanSets);
+		const sets = this.multipleSamplesNoReplace(indexes, 6)
+			.map((index) => this.randomAmericanSets[index as unknown as number]);
 
 		return sets.map((setData: AnyObject) => {
 			const species = this.dex.species.get(setData.species);
