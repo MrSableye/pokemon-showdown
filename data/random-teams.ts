@@ -2262,7 +2262,7 @@ export class RandomTeams {
 			const species = this.dex.species.get(setData.species);
 
 			return {
-				name: setData.nickname || species.baseSpecies,
+				name: setData.name || species.baseSpecies,
 				species: species.name,
 				gender: setData.gender || species.gender,
 				item: setData.item || '',
